@@ -47,7 +47,7 @@ display: flex;
 margin-top: 2%;
 margin-left: 2%;
 width: 95%;
-height: 700px; 
+height: 900px; 
 background-color: rgb(224, 231, 231);
 border-radius: 4px;
 border:solid 0,10px rgb(132, 0, 255);
@@ -105,7 +105,7 @@ text-align: center;
 @media screen and (min-width: 300px) and (max-width: 550px) {
     .conteiner{
         width: 95%;
-        margin-top:50px;
+        margin-top:30px;
     } 
     h1{
         display:none;
