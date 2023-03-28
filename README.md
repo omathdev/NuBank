@@ -8,4 +8,4 @@ Feita totalmente sem copiar e colar codigo. tudo  com conheimento da mente.
    <h2>Responsive CSS </h2> 
      
    
-<img src="https://i.imgur.com/OyjuxfO.png">
+<img style="margin-left:50%;" src="https://i.imgur.com/OyjuxfO.png">
