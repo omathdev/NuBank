@@ -105,10 +105,9 @@ text-align: center;
 @media screen and (min-width: 300px) and (max-width: 550px) {
     .conteiner{
         width: 95%;
+        margin-top:50px;
     } 
     h1{
-        font-size: 20px;
-        width: 100px;
-        margin-left: 10px;
+        display:none;
     }
 }
