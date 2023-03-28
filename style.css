@@ -44,10 +44,10 @@ h1{
 .conteiner{
 flex-direction: column;
 display: flex;
-margin-top: 2%;
+margin-top: 1%;
 margin-left: 2%;
 width: 95%;
-height: 900px; 
+height: 1100px; 
 background-color: rgb(224, 231, 231);
 border-radius: 4px;
 border:solid 0,10px rgb(132, 0, 255);
